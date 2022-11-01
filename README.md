@@ -1,10 +1,10 @@
 # Branching-Development-Model
 
-##DESCRIPTION
+## DESCRIPTION
 ---
 Create a branching model to help your team understand the Git Feature Branch Workflow for faster and efficient integration of work
 
-##Background of the problem statement:
+## Background of the problem statement:
 ---
 M-theta Technology Solutions hired you as a DevOps Architect. It is undergoing an infrastructural change to implement DevOps to develop and deliver the products. Since M-theta is an Agile organization, they follow the Scrum methodology to develop the projects incrementally. Hence, the company wants to adopt Git as a Source Code Management (SCM) tool for faster integration of work and smooth transition into DevOps.
 
@@ -12,11 +12,11 @@ So, as a DevOps Architect, you have been asked to build a branching model to dem
 
 ![Branching Model](image.jpg)
 
-##You must use the following:
+## You must use the following:
 ---
 Git: To build the branching model
 
-##Steps to perform:
+## Steps to perform:
 ---
 
     1. Start with the Production branch (master branch), and then create a HotFix  and Integration branch
