@@ -3,3 +3,4 @@
  3) Branching development Model -- Third Commit to feature2 Branch
  4) Branching development Model -- Forth Commit to feature2 Branch
  5) Branching development Model -- Fifth Commit to feature2 Branch
+ 6) Branching development Model -- Sixth Commit to feature2 Branch
